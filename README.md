@@ -13,6 +13,7 @@ Here are some ideas to get you started:
  <a href="https://linkedin.com/in/sadık-oktay-bicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:s.oktay.bicici@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://medium.com/@s.oktay.bicici" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=2159024400&v=beta&t=Wm8Ot9y3NUE2ykeQeTOBZXGIFwR2dullMAVyZbCbJ4Q" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.kaggle.com/sadkoktaybicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 <br />
 
