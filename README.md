@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ## 💬 My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-OKtay-Bicici&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-OKtay-Bicici&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-OKtay-Bicici&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Oktay-Bicici&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
