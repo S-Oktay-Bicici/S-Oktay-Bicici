@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on R and Data Science
-- 🌱 I’m currently learning R Programming
+- 🔭 I’m currently working on Python and Data Science
+- 🌱 I’m currently learning Python Programming
 - 👯 I’m looking to collaborate with anyone with any project
 - ⚡ Fun fact: I love to research and use the keyboard
 
