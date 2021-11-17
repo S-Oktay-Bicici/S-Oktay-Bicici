@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
 ### Hi everyone 👋
 
 Here are some ideas to get you started:
@@ -12,7 +11,6 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://linkedin.com/in/sadık-oktay-bicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
- [![Mail Badge](https://img.shields.io/badge/s.oktay.bicici@gmial.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:s.oktay.bicici@gmail.com)](mailto:s.oktay.bicici@gmail.com)
   <a href="https://s-oktay-bicici.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=2159024400&v=beta&t=Wm8Ot9y3NUE2ykeQeTOBZXGIFwR2dullMAVyZbCbJ4Q" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.kaggle.com/sadkoktaybicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
