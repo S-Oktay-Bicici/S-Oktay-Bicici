@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="https://medium.com/@s-oktay-bicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/sadık-oktay-bicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sadık-oktay-bicici/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/sadkoktaybicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 </p>
 <br />
