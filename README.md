@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://linkedin.com/in/sadık-oktay-bicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
-  <a href="https://s-oktay-bicici.medium.com/" target="_blank" rel="noopener noreferrer"> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_200_200/0/1602698792035?e=2159024400&v=beta&t=Wm8Ot9y3NUE2ykeQeTOBZXGIFwR2dullMAVyZbCbJ4Q" alt="Medium" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.kaggle.com/sadkoktaybicici" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kaggle" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://medium.com/@s-oktay-bicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/medium_mono_hoz0z5.png" alt="drawing" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/sadık-oktay-bicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/sadkoktaybicici"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 </p>
 <br />
 
